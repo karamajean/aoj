@@ -11,7 +11,7 @@ void swap(int *a, int *b)
 
 int main ()
 {
-	int a, b, c;
+	int a, b, c;//Ryan add used iPad Apple mini iPad
 
 	scanf("%d %d %d",&a,&b,&c);
 
