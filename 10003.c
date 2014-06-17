@@ -6,15 +6,15 @@ int main ()
 
 	scanf("%d %d",&a,&b);
 
-	if(a>b)
+	if( a > b )
 	{
 		printf("a > b\n");
 	}
-	else if(a<b)
+	else if( a < b )
 	{
 		printf("a < b\n");
 	}
-	else if (a=b)
+	else if ( a == b )
 	{
 		printf("a == b\n");
 	}
